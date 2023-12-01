@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670271517 source:c:\users\alexi\desktop\proiect pc - alexia v\p3.c\main.cpp
+	<iostream>
+
+1670278392 source:c:\users\alexi\desktop\proiect pc - alexia v\p3.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
